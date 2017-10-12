@@ -7,9 +7,9 @@
 
 - [建立你的 Python 開發環境](http://nbviewer.jupyter.org/github/jshuang0520/Python_for_Data_Science_HW/blob/master/Python_4_ds%20HW%201.ipynb)
 
-- [迴圈](http://nbveiwer.jupyter.org/github/jshuang0520/Python_for_Data_Science_HW/blob/master/Python_4_ds%20HW%202.ipynb)
+- [迴圈](http://nbviewer.jupyter.org/github/jshuang0520/Python_for_Data_Science_HW/blob/master/Python_4_ds%20HW%202.ipynb)
 
-- [流程控制](http://nbviwer.jupyter.org/github/jshuang0520/Python_for_Data_Science_HW/blob/master/Python_4_ds%20HW%203.ipynb)
+- [流程控制](http://nbviewer.jupyter.org/github/jshuang0520/Python_for_Data_Science_HW/blob/master/Python_4_ds%20HW%203.ipynb)
 
 - [函數](http://nbviewer.jupyter.org/github/jshuang0520/Python_for_Data_Science_HW/blob/master/Python_4_ds%20HW%204.ipynb)
 
